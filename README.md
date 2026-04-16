@@ -16,6 +16,7 @@ commands in the Terminal:
 6. start the n8n environment
 `n8n start`
 7.https://psychic-memory-69jr6qvp77vqfr4vp-5678.app.github.dev/
+8. Production URL: https://psychic-memory-69jr6qvp77vqfr4vp-5678.app.github.dev/form/37c6439f-7997-4692-9eb2-72acd6cf2e04
 
 
 
